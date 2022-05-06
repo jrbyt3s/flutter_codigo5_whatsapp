@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_codigo5_whatsapp/data/data_dummy.dart';
 
-import 'item_chat_widget.dart';
+import '../widgets/item_chat_widget.dart';
 
 class ChatPage extends StatelessWidget {
   const ChatPage({Key? key}) : super(key: key);
