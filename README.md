@@ -2,6 +2,24 @@
 
 A new Flutter project.
 
+# ScrrenShots:
+
+ChatPage:</br>
+<img src="assets/screenshots/1-chatPage.png" width="30%"></br>
+
+StatusPage:</br>
+<img src="assets/screenshots/2-statusPage.png" width="30%"></br>
+
+CallPagePage:</br>
+<img src="assets/screenshots/3-callPage.png" width="30%"></br>
+
+CameraPage:</br>
+<img src="assets/screenshots/4-cameraPage.png" width="30%"></br>
+
+ChatDetailPage:</br>
+<img src="assets/screenshots/5-chatDetailPage.png" width="30%"></br>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

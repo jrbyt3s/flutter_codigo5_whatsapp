@@ -57,7 +57,7 @@ List<ChatModel> chatList = [
     avatarURL:
         "https://images.pexels.com/photos/1382731/pexels-photo-1382731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     username: "Karla Gonzales",
-    message: "Flutter es genial!",
+    message: "Call me back asap",
     time: "15:22",
     countMessage: 0,
     isTyping: false,
@@ -116,7 +116,7 @@ List<StatusModel> statusUsers = [
     ],
     dia: "hoy",
     time: "15:16",
-    visto: false,
+    visto: true,
   ),
   StatusModel(
     username: "Ludwig Lopez",
@@ -134,7 +134,7 @@ List<StatusModel> statusUsers = [
     ],
     dia: "ayer",
     time: "09:20",
-    visto: true,
+    visto: false,
   ),
   StatusModel(
     username: "Julio Alcoser",
